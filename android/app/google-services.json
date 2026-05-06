@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121294545566",
+    "project_id": "locationlogger-f8125",
+    "storage_bucket": "locationlogger-f8125.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121294545566:android:922a69ddd303132725518f",
+        "android_client_info": {
+          "package_name": "com.example.location_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6AfDwE7HHvC0WvJVZw8BuGI5BaRiUPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
